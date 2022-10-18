@@ -1,15 +1,15 @@
 
+- 🔭 Hoje trabalho com Typescript
+- 🌱 Aprendendo Angular
+- ✉️ Contato: h.marcyhel2012@gmail.com
+- 🧒 Programador Jr
+- 📖 Python, Dart, C, C#, HTML, CSS, Flutter
 <div>
   <a href="https://github.com/marcyhel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcyhel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcyhel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div> 
- 
- 
- 
-  ![Snake animation](https://github.com/marcyhel/marcyhel/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 <!--
 **marcyhel/marcyhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
