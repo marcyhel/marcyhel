@@ -1,9 +1,8 @@
 
 - 🔭 Hoje trabalho com Typescript
-- 🌱 Aprendendo Angular
 - ✉️ Contato: h.marcyhel2012@gmail.com
-- 🧒 Programador Jr
-- 📖 Python, Dart, C, C#, HTML, CSS, Flutter
+- 🧒 Programador Pleno
+- 📖 Javascript, Typescript, Python, Dart, C, HTML, CSS, Flutter, Django, Angular e node
 <div>
   <a href="https://github.com/marcyhel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcyhel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
